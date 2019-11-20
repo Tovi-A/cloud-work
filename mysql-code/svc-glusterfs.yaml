@@ -7,5 +7,5 @@ spec:
   selector:
     app: mysql
   ports:
-    - name: http
-      port: 80 
+  - name: http
+    port: 80 
